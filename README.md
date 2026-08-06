@@ -8,6 +8,13 @@ recomendaciones generadas por LLM y respaldo automático basado en reglas.
 
 **https://sistema-predictivo-news-2cq3rxqzqtpaxhdm49rf7d.streamlit.app/**
 
+Para probar la vista de "Notas" (importar una nota real desde un feed RSS en vez de
+escribirla a mano), puedes usar este feed de ejemplo:
+
+```
+http://jarochilandia-com.ntc4-p2stl.ezhostingserver.com/rss/noticias.xml
+```
+
 ## Estructura del repositorio
 
 ```
