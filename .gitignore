@@ -13,6 +13,7 @@ documento/
 
 # Nunca subir secretos
 .streamlit/secrets.toml
+clave groq.txt
 
 # Python / Jupyter
 __pycache__/
