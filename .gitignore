@@ -1,0 +1,27 @@
+# Datos crudos pesados: no los necesita la app desplegada, solo el notebook (vía Drive)
+datos/cms-2025.csv
+datos/google-analytics-2025.csv
+datos/articulos_limpio.csv
+
+# Excluidos a petición: no se suben al repo
+notebook_analisis copy.ipynb
+notebook_analisis copy 2.ipynb
+notebook_analisis - Copy.ipynb
+GUIA_PROYECTO.md
+capturas/
+documento/
+
+# Nunca subir secretos
+.streamlit/secrets.toml
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+*:Zone.Identifier
+
+# Claude Code local
+.claude/

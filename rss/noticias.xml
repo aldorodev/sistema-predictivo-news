@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>NewsHubMX Demo RSS</title>
+<link>https://newshubmx.com</link>
+<description>RSS de ejemplo con 10 notas</description>
+
+<item>
+<title>Inician trabajos de rehabilitación del bulevar costero</title>
+<link>https://newshubmx.com/nota/1</link>
+<guid>https://newshubmx.com/nota/1</guid>
+<pubDate>Sat, 01 Aug 2026 10:00:00 GMT</pubDate>
+<category>Boca del Río</category>
+<author>Alonso Talavera Fernández</author>
+<description><![CDATA[
+<h1>Inician trabajos de rehabilitación del bulevar costero</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTUPTLAfz6lckMzMcxkZusuTzfAxYvJCTNWEpnZFjpBDG7YbqHOsbXmbg&s=10" alt="Trabajos de rehabilitación del bulevar costero">
+<p>Contenido de ejemplo para la nota 1. Este texto simula una noticia con estructura periodística y sirve para probar el análisis SEO.</p>
+<a href='/nota/relacionada-4'>Lee también otra nota relacionada</a>
+<p>Contenido de ejemplo para la nota 1. Este texto simula una noticia con estructura periodística y sirve para probar el análisis SEO.</p>
+<img src='https://picsum.photos/900/500?random=100' alt='Secundaria'>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FXeuDeportes%2Fposts%2Fpfbid02V3d23QsBeEGR3DnTnbKkbLWEAYZRY2DQL2wTqtAQ6EW8Wt5DsnkMTSobtfTjzFhtl&show_text=true&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+]]></description>
+<media:content url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTUPTLAfz6lckMzMcxkZusuTzfAxYvJCTNWEpnZFjpBDG7YbqHOsbXmbg&amp;s=10" medium="image" type="image/jpeg"/>
+</item>
+<item>
+<title>Protección Civil emite alerta preventiva por lluvias</title>
+<link>https://newshubmx.com/nota/2</link>
+<guid>https://newshubmx.com/nota/2</guid>
+<pubDate>Sat, 01 Aug 2026 11:00:00 GMT</pubDate>
+<category>Estado</category>
+<author>Joel Cruz</author>
+<description><![CDATA[
+<h1>Protección Civil emite alerta preventiva por lluvias</h1>
+<img src="https://pbs.twimg.com/media/ERg4moAVAAAvTHW.jpg" alt="Pronóstico de lluvias para la zona conurbada">
+<h2>¿De cuánto sería el acumulado por las posibles lluvias en la conurbación?</h2>
+<p>De acuerdo con la dependencia, los acumulados para el martes 4 pudieran oscilar entre los 5 - 20 milímetros, sin descartar los 30 milímetros.</p>
+<p>Mientras que para el miércoles 5, los acumulados por las lluvias serían entre los 5 y 20 milímetros.</p>
+<p>Por otro lado, la temperatura máxima que se tiene previsto para este lunes 3 de agosto, sea de 34 grados Celsius.</p>
+]]></description>
+<media:content url="https://pbs.twimg.com/media/ERg4moAVAAAvTHW.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+<title>China envía un astronauta al espacio por un año; alista camino a la Luna</title>
+<link>https://www.jornada.com.mx/noticia/2026/05/25/ciencia-y-tecnologia/china-envia-un-astronauta-al-espacio-por-un-ano-alista-camino-a-la-luna</link>
+<guid isPermaLink="true">https://www.jornada.com.mx/noticia/2026/05/25/ciencia-y-tecnologia/china-envia-un-astronauta-al-espacio-por-un-ano-alista-camino-a-la-luna</guid>
+<pubDate>Mon, 25 May 2026 07:32:00 -0600</pubDate>
+<category>Tecnociencia</category>
+<author>AFP</author>
+<description><![CDATA[
+<h1>China envía un astronauta al espacio por un año; alista camino a la Luna</h1>
+<img src="https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/china-envia-un-astronauta-al-espacio-por-un-ano-alista-camino-a-la-luna/china-envia-un-astronauta-al-espacio-por-un-ano-alista-camino-a-la-luna_fc567aac-e194-4246-a7ce-83f896d09a43_medialjnimgndimage%3Dfullsize" alt="Cohete Larga Marcha 2F con la nave Shenzhou-23 y su tripulación">
+<h2>La misión Shenzhou-23 estudiará los efectos de una estancia prolongada en microgravedad</h2>
+<p>China lanzó la nave tripulada Shenzhou-23 y logró acoplarla con éxito a la estación espacial Tiangong. La misión forma parte de los preparativos de Pekín para enviar seres humanos a la Luna antes de 2030.</p>
+<p>Uno de los astronautas permanecerá un año completo en órbita, el doble del periodo habitual de las tripulaciones chinas. La estancia permitirá analizar los efectos de la microgravedad prolongada y obtener información útil para futuras misiones lunares o incluso viajes a Marte.</p>
+<p>El cohete Larga Marcha 2F despegó desde el centro espacial de Jiuquan, en el desierto de Gobi. Después de aproximadamente tres horas y media de vuelo, la nave se acopló a Tiangong y las autoridades informaron que sus tres tripulantes se encontraban en buen estado.</p>
+<p>La tripulación está integrada por Li Jiaying, primera astronauta originaria de Hong Kong; el comandante Zhu Yangzhu, ingeniero espacial; y Zhang Zhiyuan, antiguo piloto de la fuerza aérea. Durante la misión realizarán experimentos de ciencia de materiales, física de fluidos y medicina.</p>
+<p>Los investigadores observarán riesgos como pérdida de densidad ósea, atrofia muscular, exposición a radiación, alteraciones del sueño y fatiga psicológica. También evaluarán la confiabilidad de los sistemas de reciclaje de agua y aire y la respuesta ante emergencias médicas lejos de la Tierra.</p>
+<p>China continúa desarrollando la nave Mengzhou para misiones lunares tripuladas y pretende construir, hacia 2035, el primer segmento de una base científica habitada en la superficie de la Luna.</p>
+<p><a href="https://www.jornada.com.mx/noticia/2026/05/25/ciencia-y-tecnologia/china-envia-un-astronauta-al-espacio-por-un-ano-alista-camino-a-la-luna">Consulta la publicación original en La Jornada</a>.</p>
+]]></description>
+<media:content url="https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/china-envia-un-astronauta-al-espacio-por-un-ano-alista-camino-a-la-luna/china-envia-un-astronauta-al-espacio-por-un-ano-alista-camino-a-la-luna_fc567aac-e194-4246-a7ce-83f896d09a43_medialjnimgndimage%3Dfullsize" medium="image" type="image/jpeg"/>
+</item>
+<item>
+<title>"Spider-Man: Brand New Day", por poco se convierte en el estreno más taquillero "de todos los tiempos" en EU</title>
+<link>https://www.eluniversal.com.mx/espectaculos/spider-man-brand-new-day-por-poco-se-convierte-en-el-estreno-mas-taquillero-de-todos-los-tiempos-en-eu/</link>
+<guid isPermaLink="true">https://www.eluniversal.com.mx/espectaculos/spider-man-brand-new-day-por-poco-se-convierte-en-el-estreno-mas-taquillero-de-todos-los-tiempos-en-eu/</guid>
+<pubDate>Sun, 02 Aug 2026 11:42:00 -0600</pubDate>
+<category>Espectáculos</category>
+<author>Mariana Lebrija Clavel</author>
+<description><![CDATA[
+<h1>"Spider-Man: Brand New Day", por poco se convierte en el estreno más taquillero "de todos los tiempos" en EU</h1>
+<img src="https://www.eluniversal.com.mx/resizer/v2/TTQ5CUCRQFAQRMJ3WGF5YTI2SI.png?auth=f58ea1945f195d5d621ac7d1607d97aa16eadae4e1d068096a8a38839fc84d27" alt="Spider-Man: Brand New Day obtiene una destacada recaudación en taquilla">
+<h2>La película reunió alrededor de 355 millones de dólares durante su primer fin de semana en Estados Unidos</h2>
+<p>“Spider-Man: Brand New Day”, producción de Sony Pictures y Marvel, logró uno de los mayores estrenos de la historia en Estados Unidos. Las estimaciones indican que la cinta obtuvo alrededor de 355 millones de dólares durante sus primeros días en cartelera.</p>
+<p>La película dirigida por Destin Daniel Cretton quedó muy cerca del registro de “Avengers: Endgame”, que conserva la primera posición con aproximadamente 357.1 millones de dólares. Aun así, la nueva entrega de Spider-Man se convirtió en el debut más taquillero para Sony Pictures.</p>
+<p>Tom Rothman, director de Sony Pictures, atribuyó el resultado a la conexión del público con el personaje y a una historia centrada en la necesidad de crear vínculos y amistades. También destacó que hacía varios años que no llegaba a las salas una producción de estas características.</p>
+<p>En el mercado internacional, la cinta protagonizada por Tom Holland y Zendaya alcanzó una recaudación aproximada de 572 millones de dólares. Además, superó a “Avengers: Endgame” en ingresos obtenidos durante el día de estreno.</p>
+<p>De acuerdo con las cifras difundidas, “Spider-Man: Brand New Day” reunió cerca de 168 millones de dólares en su jornada de lanzamiento, frente a los 157.8 millones obtenidos por “Avengers: Endgame”.</p>
+<p><a href="https://www.eluniversal.com.mx/espectaculos/spider-man-brand-new-day-por-poco-se-convierte-en-el-estreno-mas-taquillero-de-todos-los-tiempos-en-eu/">Consulta la publicación original en El Universal</a>.</p>
+]]></description>
+<media:content url="https://www.eluniversal.com.mx/resizer/v2/TTQ5CUCRQFAQRMJ3WGF5YTI2SI.png?auth=f58ea1945f195d5d621ac7d1607d97aa16eadae4e1d068096a8a38839fc84d27" medium="image" type="image/png" width="1200"/>
+</item>
+<item>
+<title>Operativo recupera vehículos con reporte de robo</title>
+<link>https://newshubmx.com/nota/5</link>
+<guid>https://newshubmx.com/nota/5</guid>
+<pubDate>Sat, 01 Aug 2026 14:00:00 GMT</pubDate>
+<category>Policiaca</category>
+<author>José Antonio Coto</author>
+<description><![CDATA[
+<h1>Operativo recupera vehículos con reporte de robo</h1>
+<img src='https://picsum.photos/1200/700?random=5' alt='Principal'>
+<p>Contenido de ejemplo para la nota 5. Este texto simula una noticia con estructura periodística y sirve para probar el análisis SEO.</p>
+<a href='/nota/relacionada-8'>Lee también otra nota relacionada</a>
+<p>Contenido de ejemplo para la nota 5. Este texto simula una noticia con estructura periodística y sirve para probar el análisis SEO.</p>
+<img src='https://picsum.photos/900/500?random=104' alt='Secundaria'>
+]]></description>
+<media:content url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" medium="audio" type="audio/mpeg"/>
+</item>
+<item>
+<title>Sheinbaum responde a Trump tras compartir columna que critica estrategia de seguridad; "México es amigo de todo el mundo"</title>
+<link>https://www.eluniversal.com.mx/nacion/sheinbaum-responde-a-trump-tras-compartir-columna-que-critica-estrategia-de-seguridad-mexico-es-amigo-de-todo-el-mundo/</link>
+<guid isPermaLink="true">https://www.eluniversal.com.mx/nacion/sheinbaum-responde-a-trump-tras-compartir-columna-que-critica-estrategia-de-seguridad-mexico-es-amigo-de-todo-el-mundo/</guid>
+<pubDate>Sun, 02 Aug 2026 18:09:12 -0600</pubDate>
+<category>Nacional</category>
+<author>EFE</author>
+<description><![CDATA[
+<h1>Sheinbaum responde a Trump tras compartir columna que critica estrategia de seguridad; "México es amigo de todo el mundo"</h1>
+<img src="https://www.eluniversal.com.mx/resizer/v2/MPOMFFZVCVFIRCHTCU2SDPUVOI.jpg?auth=16f7e57bfdf96e57273d9f90c46f8090519bcbb053494dbfa62127893081ec7d" alt="Claudia Sheinbaum responde a una publicación de Donald Trump">
+<h2>La Presidenta defendió la soberanía mexicana después de que Trump difundiera una columna crítica sobre la estrategia de seguridad</h2>
+<p>La presidenta Claudia Sheinbaum afirmó que México mantiene una relación de amistad con todos los países y que la valentía consiste en defender la soberanía nacional. Su declaración ocurrió durante una visita a Oaxaca, luego de ser cuestionada sobre una publicación del presidente estadounidense Donald Trump.</p>
+<p>Trump compartió en Truth Social una columna del comentarista Bill O'Reilly titulada “Mexico's Problem”. El texto acusa al Gobierno mexicano de corrupción, relaciona esa situación con la violencia y el narcotráfico, y cuestiona que México no permita la intervención de autoridades estadounidenses en su territorio.</p>
+<p>Sheinbaum sostuvo que la soberanía y la independencia garantizan que los mexicanos decidan lo que sucede en el país sin injerencias externas. Señaló que esos principios forman parte de las luchas históricas de México y son ejes de su administración.</p>
+<p>El grupo parlamentario de Morena en el Senado también respondió mediante una carta dirigida a O'Reilly. Los legisladores rechazaron que la política mexicana frente al crimen organizado represente debilidad y recordaron que el narcotráfico es un fenómeno transnacional relacionado con la demanda de drogas, el tráfico de armas y el lavado de dinero.</p>
+<p>Los senadores defendieron una relación bilateral basada en la cooperación, el diálogo y el respeto entre socios comerciales, vecinos y naciones soberanas. Advirtieron que mantendrán una postura firme ante cualquier expresión que consideren ofensiva para la soberanía de México.</p>
+<p><a href="https://www.eluniversal.com.mx/nacion/sheinbaum-responde-a-trump-tras-compartir-columna-que-critica-estrategia-de-seguridad-mexico-es-amigo-de-todo-el-mundo/">Consulta la publicación original en El Universal</a>.</p>
+]]></description>
+<media:content url="https://www.eluniversal.com.mx/resizer/v2/MPOMFFZVCVFIRCHTCU2SDPUVOI.jpg?auth=16f7e57bfdf96e57273d9f90c46f8090519bcbb053494dbfa62127893081ec7d" medium="image" type="image/jpeg" width="1200"/>
+</item>
+<item>
+<title>Trump lucra ahora con Truth Social; vende sus mensajes anticipados por 100 mil dólares</title>
+<link>https://www.eluniversal.com.mx/mundo/trump-lucra-ahora-con-truth-social-vende-sus-mensajes-anticipados-por-100-mil-dolares/</link>
+<guid isPermaLink="true">https://www.eluniversal.com.mx/mundo/trump-lucra-ahora-con-truth-social-vende-sus-mensajes-anticipados-por-100-mil-dolares/</guid>
+<pubDate>Sun, 02 Aug 2026 21:01:50 -0600</pubDate>
+<category>Internacional</category>
+<author>AP</author>
+<description><![CDATA[
+<h1>Trump lucra ahora con Truth Social; vende sus mensajes anticipados por 100 mil dólares</h1>
+<img src="https://www.eluniversal.com.mx/resizer/v2/QBA3FKRHB5GNHJSW2XK3AW2A3U.jpg?auth=d44113aadfa0a42fb7a66e89b316d825dd02e7a5aba4e0b0304c4d4b3cb02718" alt="Donald Trump y la plataforma Truth Social">
+<h2>La decisión genera dudas sobre el acceso privilegiado a información capaz de mover los mercados</h2>
+<p>Truth Social comenzó a ofrecer un servicio dirigido a operadores de Wall Street que cuesta 100 mil dólares al mes. La herramienta permite recibir con mayor velocidad las publicaciones de cuentas de alto perfil, entre ellas la del presidente estadounidense Donald Trump.</p>
+<p>El producto, llamado Truth API, podría resultar especialmente valioso para las firmas de negociación de alta frecuencia. Estas empresas utilizan sistemas automatizados para reaccionar en milisegundos ante anuncios sobre aranceles, política monetaria, conflictos internacionales y compañías que cotizan en bolsa.</p>
+<p>Especialistas advierten que, aunque las publicaciones se hagan públicas al mismo tiempo, quienes paguen por un canal directo y cuenten con sistemas preparados para procesarlas podrían operar antes que los inversionistas comunes. Esto ha provocado cuestionamientos sobre equidad, información privilegiada y posibles beneficios privados derivados del cargo presidencial.</p>
+<p>Trump Media &amp; Technology rechazó las críticas y sostuvo que no existe diferencia entre información pública y no pública. La empresa podría elevar considerablemente sus ingresos con un número reducido de suscriptores, en momentos en que continúa reportando pérdidas y una fuerte caída en el valor de sus acciones.</p>
+<p>Críticos y legisladores demócratas anticiparon que el servicio podría ser objeto de investigaciones en el Congreso. También señalaron que las frecuentes publicaciones de Trump sobre decisiones políticas y empresas específicas pueden ocasionar movimientos inmediatos en acciones, bonos, divisas y materias primas.</p>
+<p><a href="https://www.eluniversal.com.mx/mundo/trump-lucra-ahora-con-truth-social-vende-sus-mensajes-anticipados-por-100-mil-dolares/">Consulta la publicación original en El Universal</a>.</p>
+]]></description>
+<media:content url="https://www.eluniversal.com.mx/resizer/v2/QBA3FKRHB5GNHJSW2XK3AW2A3U.jpg?auth=d44113aadfa0a42fb7a66e89b316d825dd02e7a5aba4e0b0304c4d4b3cb02718" medium="image" type="image/jpeg" width="1200"/>
+</item>
+<item>
+<title>Festival gastronómico rompe récord de asistentes</title>
+<link>https://newshubmx.com/nota/8</link>
+<guid>https://newshubmx.com/nota/8</guid>
+<pubDate>Sat, 01 Aug 2026 17:00:00 GMT</pubDate>
+<category>Las Destacadas</category>
+<author>José de Aquino</author>
+<description><![CDATA[
+<h1>Festival gastronómico rompe récord de asistentes</h1>
+<img src='https://picsum.photos/1200/700?random=8' alt='Principal'>
+<p>Contenido de ejemplo para la nota 8. Este texto simula una noticia con estructura periodística y sirve para probar el análisis SEO.</p>
+<a href='/nota/relacionada-1'>Lee también otra nota relacionada</a>
+<p>Contenido de ejemplo para la nota 8. Este texto simula una noticia con estructura periodística y sirve para probar el análisis SEO.</p>
+<p>Contenido de ejemplo para la nota 8. Este texto simula una noticia con estructura periodística y sirve para probar el análisis SEO.</p>
+<p>Contenido de ejemplo para la nota 8. Este texto simula una noticia con estructura periodística y sirve para probar el análisis SEO.</p>
+<p>Contenido de ejemplo para la nota 8. Este texto simula una noticia con estructura periodística y sirve para probar el análisis SEO.</p>
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/aqz-KE-bpKQ" allowfullscreen></iframe>
+]]></description>
+</item>
+<item>
+<title>Inauguran nuevo centro comunitario en la región</title>
+<link>https://newshubmx.com/nota/9</link>
+<guid>https://newshubmx.com/nota/9</guid>
+<pubDate>Sat, 01 Aug 2026 18:00:00 GMT</pubDate>
+<category>Estado</category>
+<author>Alonso Talavera Fernández</author>
+<description><![CDATA[
+<h1>Inauguran nuevo centro comunitario en la región</h1>
+<img src='https://picsum.photos/1200/700?random=9' alt='Principal'>
+<p>Contenido de ejemplo para la nota 9. Este texto simula una noticia con estructura periodística y sirve para probar el análisis SEO.</p>
+<a href='/nota/relacionada-2'>Lee también otra nota relacionada</a>
+<p>Contenido de ejemplo para la nota 9. Este texto simula una noticia con estructura periodística y sirve para probar el análisis SEO.</p>
+<img src='https://picsum.photos/900/500?random=108' alt='Secundaria'>
+]]></description>
+<media:content url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" medium="audio" type="audio/mpeg"/>
+</item>
+<item>
+<title>En plena quincena, usuarios reportan fallas en app de BBVA; transferencias presentan retrasos</title>
+<link>https://www.eluniversal.com.mx/cartera/en-plena-quincena-usuarios-reportan-fallas-en-app-de-bbva-transferencias-presentan-retrasos/</link>
+<guid isPermaLink="true">https://www.eluniversal.com.mx/cartera/en-plena-quincena-usuarios-reportan-fallas-en-app-de-bbva-transferencias-presentan-retrasos/</guid>
+<pubDate>Fri, 31 Jul 2026 18:54:00 -0600</pubDate>
+<category>Economía</category>
+<author>Redacción El Universal</author>
+<description><![CDATA[
+<h1>En plena quincena, usuarios reportan fallas en app de BBVA; transferencias presentan retrasos</h1>
+<img src="https://www.eluniversal.com.mx/resizer/v2/22OTFUUR6JDVBPXH6I72SOFPZI.jpg?auth=f6087b87797e6e5d7236c8fec676c0d0ffc359ea02c83816ccdbd81e1fafb125" alt="Usuarios reportan fallas en la aplicación de BBVA México">
+<h2>Clientes señalaron problemas para acceder a la plataforma y demoras en operaciones bancarias</h2>
+<p>Usuarios de BBVA México informaron fallas en la aplicación móvil del banco durante el viernes de quincena. Los principales inconvenientes estuvieron relacionados con el inicio de sesión, la consulta del saldo de nómina y la realización de operaciones.</p>
+<p>En publicaciones realizadas en la red social X, algunos clientes indicaron que la aplicación les solicitaba restablecer repetidamente su contraseña. Otros reportaron que las transferencias enviadas a cuentas de distintos bancos todavía no aparecían reflejadas.</p>
+<p>Ante las consultas de los usuarios, BBVA explicó en algunas respuestas que una transferencia interbancaria puede tardar hasta 24 horas hábiles en acreditarse. Si el dinero no aparece después de ese periodo, recomendó al beneficiario consultar directamente con su institución bancaria.</p>
+<p>Downdetector registró reportes desde poco antes de las 7:00 horas, principalmente por dificultades de acceso y problemas al ejecutar operaciones. Hasta la publicación de la nota, BBVA no había comunicado oficialmente una interrupción general de sus servicios digitales.</p>
+<p><a href="https://www.eluniversal.com.mx/cartera/en-plena-quincena-usuarios-reportan-fallas-en-app-de-bbva-transferencias-presentan-retrasos/">Consulta la publicación original en El Universal</a>.</p>
+]]></description>
+<media:content url="https://www.eluniversal.com.mx/resizer/v2/22OTFUUR6JDVBPXH6I72SOFPZI.jpg?auth=f6087b87797e6e5d7236c8fec676c0d0ffc359ea02c83816ccdbd81e1fafb125" medium="image" type="image/jpeg" width="1200"/>
+</item>
+</channel>
+</rss>
