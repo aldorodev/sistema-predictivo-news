@@ -38,3 +38,6 @@ GROQ_API_KEY=tu_api_key streamlit run app.py
 
 La `GROQ_API_KEY` es opcional: sin ella, la app usa automáticamente su plan de
 respaldo basado en reglas para las recomendaciones.
+
+La clave real se comparte en un `.txt` en el Drive del Classroom del curso, junto con
+los archivos de datos crudos mencionados arriba (no se sube a git por seguridad).
